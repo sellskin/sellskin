@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm sellsilk
+<h1 align="center">Hi 👋, I'm sellskin
   <div style="text-align: center;">
     <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" style="display: inline-block;" /> 
     <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" style="display: inline-block;" /> 
     <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" style="display: inline-block;" />
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" style="display: inline-block;" /> 
-    <img src="https://komarev.com/ghpvc/?username=sellsilk" alt="1879" style="display: inline-block;">
+    <img src="https://komarev.com/ghpvc/?username=sellskin" alt="1879" style="display: inline-block;">
   </div>
 </h1>
 
@@ -21,35 +21,35 @@
 
 <div>
     <span align="right">
-      <img align="right" style="margin: auto 8px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sellsilk&layout=compact&langs_count=6&bg_color=E6E6FA" alt="https://raw.githubusercontent.com/sellsilk/sellsilk/master/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20231224134245.png">
-      <img width="170" height="165" style="margin: auto 8px" align="right" src="https://github-profile-trophy.vercel.app/?username=sellsilk&theme=onedark&title=MultiLanguage,Joined2020,Commits,Experience&row=2&column=2" alt="https://raw.githubusercontent.com/sellsilk/sellsilk/master/Quicker_20231224_134552.png">
+      <img align="right" style="margin: auto 8px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sellskin&layout=compact&langs_count=6&bg_color=E6E6FA" alt="https://raw.githubusercontent.com/sellskin/sellskin/master/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20231224134245.png">
+      <img width="170" height="165" style="margin: auto 8px" align="right" src="https://github-profile-trophy.vercel.app/?username=sellskin&theme=onedark&title=MultiLanguage,Joined2020,Commits,Experience&row=2&column=2" alt="https://raw.githubusercontent.com/sellskin/sellskin/master/Quicker_20231224_134552.png">
   </span>  
   <span align="left">
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-      <a href="https://github.com/sellsilk" target="_blank">
-        <img src="https://img.shields.io/badge/email-white?style=social&logo=gmail&label=lukasmayer83593@gmail.com">
+      <a href="https://github.com/sellskin" target="_blank">
+        <img src="https://img.shields.io/badge/email-white?style=social&logo=gmail&label=mydesk@yeah.net">
       </a>
     </p>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
-      <a href="https://github.com/sellsilk" target="_blank">
-        <img src="https://img.shields.io/badge/github-white?style=social&logo=github&label=sellsilk">
+      <a href="https://github.com/sellskin" target="_blank">
+        <img src="https://img.shields.io/badge/github-white?style=social&logo=github&label=sellskin">
       </a>
     </p>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
-      <a href="https://www.zhihu.com/people/chou-yu-80-33" target="_blank">
+      <a href="https://www.zhihu.com/people/ponyma" target="_blank">
         <img src="https://img.shields.io/badge/Zhihu-blue?style=social&logo=zhihu&label=Decade">
       </a>
     </p>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
-      <a href="https://decade.net.cn" target="_blank">
+      <a href="https://about.com" target="_blank">
         <img src="https://img.shields.io/badge/Blog-blue?style=social&label=📝  Decade">
       </a>
     </p>
   </span>
 </div>
 
-<!-- <img src="https://streak-stats.demolab.com/?user=sellsilk"> -->
+<!-- <img src="https://streak-stats.demolab.com/?user=sellskin"> -->
 <p> &nbsp;</p>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sellsilk&theme=github-compact&custom_title=Activity&radius=30&height=250" alt="Lazy">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sellskin&theme=github-compact&custom_title=Activity&radius=30&height=250" alt="Lazy">
 
 
