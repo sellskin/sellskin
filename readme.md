@@ -37,12 +37,12 @@
     </p>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
       <a href="https://www.zhihu.com/people/ponyma" target="_blank">
-        <img src="https://img.shields.io/badge/Zhihu-blue?style=social&logo=zhihu&label=Decade">
+        <img src="https://img.shields.io/badge/Zhihu-blue?style=social&logo=zhihu&label=sellskin">
       </a>
     </p>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
       <a href="https://about.com" target="_blank">
-        <img src="https://img.shields.io/badge/Blog-blue?style=social&label=📝  Decade">
+        <img src="https://img.shields.io/badge/Blog-blue?style=social&label=📝  sellskin">
       </a>
     </p>
   </span>
